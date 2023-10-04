@@ -1,7 +1,0 @@
-/node_modules/
-/package-lock.json
-/config/.env.develop
-/.idea/
-/config/.env.qa
-/config/.env
-/config/.env.prod
